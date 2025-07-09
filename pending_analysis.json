@@ -1,0 +1,661 @@
+[
+  {
+    "user": "6847f1c9ba701433ed528be7",
+    "startTime": "2025-07-08T06:16:27.991Z",
+    "endTime": "2025-07-08T07:16:27.991Z",
+    "sessionWindow": [
+      {
+        "status": "online",
+        "startTime": "2025-07-08T06:16:27.991Z",
+        "endTime": "2025-07-08T06:44:06.611Z",
+        "date": "2025-07-08",
+        "_id": "686cb7bc6f3fb026eec4c093"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-08T06:44:06.611Z",
+        "endTime": "2025-07-08T07:15:42.966Z",
+        "date": "2025-07-08",
+        "_id": "686cbe3687f88d57015cdb88"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-08T07:15:42.966Z",
+        "endTime": null,
+        "date": "2025-07-08",
+        "_id": "686cc5a187f88d57015cdbce"
+      }
+    ]
+  },
+  {
+    "user": "6847f1c9ba701433ed528be7",
+    "startTime": "2025-07-08T07:16:27.991Z",
+    "endTime": "2025-07-08T08:16:27.991Z",
+    "sessionWindow": [
+      {
+        "status": "online",
+        "startTime": "2025-07-08T07:28:20.468Z",
+        "endTime": "2025-07-08T07:58:53.010Z",
+        "date": "2025-07-08",
+        "_id": "686cc89487f88d57015cdc26"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-08T07:58:53.010Z",
+        "endTime": "2025-07-08T08:14:46.910Z",
+        "date": "2025-07-08",
+        "_id": "686ccfbd87f88d57015cdc6f"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-08T08:14:46.910Z",
+        "endTime": "2025-07-08T08:20:29.079Z",
+        "date": "2025-07-08",
+        "_id": "686cd37787f88d57015cdca8"
+      }
+    ]
+  },
+  {
+    "user": "6847f1c9ba701433ed528be7",
+    "startTime": "2025-07-08T08:16:27.991Z",
+    "endTime": "2025-07-08T09:16:27.991Z",
+    "sessionWindow": [
+      {
+        "status": "online",
+        "startTime": "2025-07-08T08:20:29.079Z",
+        "endTime": "2025-07-08T08:23:11.324Z",
+        "date": "2025-07-08",
+        "_id": "686cd4cd87f88d57015cdcd8"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-08T08:23:11.324Z",
+        "endTime": "2025-07-08T08:23:20.940Z",
+        "date": "2025-07-08",
+        "_id": "686cd56f87f88d57015cdd2c"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-08T08:23:20.940Z",
+        "endTime": "2025-07-08T08:24:27.153Z",
+        "date": "2025-07-08",
+        "_id": "686cd57987f88d57015cdd58"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-08T08:24:27.153Z",
+        "endTime": "2025-07-08T08:37:44.782Z",
+        "date": "2025-07-08",
+        "_id": "686cd5bb87f88d57015cdd85"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-08T08:37:44.782Z",
+        "endTime": "2025-07-08T08:45:12.089Z",
+        "date": "2025-07-08",
+        "_id": "686cd8d887f88d57015cddc0"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-08T08:45:12.089Z",
+        "endTime": "2025-07-08T09:07:10.852Z",
+        "date": "2025-07-08",
+        "_id": "686cda9887f88d57015cddf7"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-08T09:07:10.852Z",
+        "endTime": "2025-07-08T09:10:49.994Z",
+        "date": "2025-07-08",
+        "_id": "686cdfbe87f88d57015cde3d"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-08T09:10:49.994Z",
+        "endTime": "2025-07-08T09:15:49.467Z",
+        "date": "2025-07-08",
+        "_id": "686ce09a87f88d57015cde71"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-08T09:15:49.467Z",
+        "endTime": "2025-07-08T09:21:24.621Z",
+        "date": "2025-07-08",
+        "_id": "686ce1c587f88d57015cdea8"
+      }
+    ]
+  },
+  {
+    "user": "6847f1c9ba701433ed528be7",
+    "startTime": "2025-07-08T09:16:27.991Z",
+    "endTime": "2025-07-08T10:16:27.991Z",
+    "sessionWindow": [
+      {
+        "status": "online",
+        "startTime": "2025-07-08T09:21:24.621Z",
+        "endTime": "2025-07-08T09:23:16.892Z",
+        "date": "2025-07-08",
+        "_id": "686ce31487f88d57015cdee2"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-08T09:23:16.892Z",
+        "endTime": "2025-07-08T09:25:43.225Z",
+        "date": "2025-07-08",
+        "_id": "686ce38487f88d57015cdf48"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-08T09:25:43.225Z",
+        "endTime": "2025-07-08T10:13:47.346Z",
+        "date": "2025-07-08",
+        "_id": "686ce41787f88d57015cdf7f"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-08T10:13:47.346Z",
+        "endTime": "2025-07-08T10:18:35.086Z",
+        "date": "2025-07-08",
+        "_id": "686cef5b87f88d57015cdfe9"
+      }
+    ]
+  },
+  {
+    "user": "6847f1c9ba701433ed528be7",
+    "startTime": "2025-07-08T10:16:27.991Z",
+    "endTime": "2025-07-08T11:16:27.991Z",
+    "sessionWindow": [
+      {
+        "status": "online",
+        "startTime": "2025-07-08T10:18:35.086Z",
+        "endTime": "2025-07-08T10:25:02.149Z",
+        "date": "2025-07-08",
+        "_id": "686cf07b87f88d57015ce024"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-08T10:25:02.149Z",
+        "endTime": "2025-07-08T10:25:56.255Z",
+        "date": "2025-07-08",
+        "_id": "686cf1fe87f88d57015ce096"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-08T10:25:56.255Z",
+        "endTime": "2025-07-08T10:26:07.620Z",
+        "date": "2025-07-08",
+        "_id": "686cf23487f88d57015ce0d0"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-08T10:26:07.620Z",
+        "endTime": "2025-07-08T10:26:52.525Z",
+        "date": "2025-07-08",
+        "_id": "686cf23f87f88d57015ce10a"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-08T10:26:52.525Z",
+        "endTime": "2025-07-08T10:32:27.252Z",
+        "date": "2025-07-08",
+        "_id": "686cf26c87f88d57015ce146"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-08T10:32:27.252Z",
+        "endTime": "2025-07-08T10:45:45.873Z",
+        "date": "2025-07-08",
+        "_id": "686cf3bb87f88d57015ce188"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-08T10:45:45.873Z",
+        "endTime": "2025-07-08T10:53:21.111Z",
+        "date": "2025-07-08",
+        "_id": "686cf6da87f88d57015ce1d3"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-08T10:53:21.111Z",
+        "endTime": "2025-07-08T10:53:51.765Z",
+        "date": "2025-07-08",
+        "_id": "686cf8a187f88d57015ce21b"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-08T10:53:51.765Z",
+        "endTime": "2025-07-08T11:16:00.406Z",
+        "date": "2025-07-08",
+        "_id": "686cf8bf87f88d57015ce25a"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-08T11:16:00.406Z",
+        "endTime": null,
+        "date": "2025-07-08",
+        "_id": "686cfdf087f88d57015ce2b0"
+      }
+    ]
+  },
+  {
+    "user": "6847f1c9ba701433ed528be7",
+    "startTime": "2025-07-08T11:16:27.991Z",
+    "endTime": "2025-07-08T12:16:27.991Z",
+    "sessionWindow": [
+      {
+        "status": "online",
+        "startTime": "2025-07-08T11:51:52.854Z",
+        "endTime": "2025-07-08T11:55:33.394Z",
+        "date": "2025-07-08",
+        "_id": "686d065887f88d57015ce353"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-08T11:55:33.394Z",
+        "endTime": "2025-07-08T12:07:30.482Z",
+        "date": "2025-07-08",
+        "_id": "686d073587f88d57015ce39a"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-08T12:07:30.482Z",
+        "endTime": "2025-07-08T12:10:49.609Z",
+        "date": "2025-07-08",
+        "_id": "686d0a0287f88d57015ce3ea"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-08T12:10:49.609Z",
+        "endTime": null,
+        "date": "2025-07-08",
+        "_id": "686d0ac987f88d57015ce431"
+      }
+    ]
+  },
+  {
+    "user": "6847f1c9ba701433ed528be7",
+    "startTime": "2025-07-08T12:16:27.991Z",
+    "endTime": "2025-07-08T13:16:27.991Z",
+    "sessionWindow": [
+      {
+        "status": "online",
+        "startTime": "2025-07-08T12:26:17.324Z",
+        "endTime": "2025-07-08T12:33:01.697Z",
+        "date": "2025-07-08",
+        "_id": "686d0e6987f88d57015ce4c7"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-08T12:33:01.697Z",
+        "endTime": "2025-07-08T12:58:42.272Z",
+        "date": "2025-07-08",
+        "_id": "686d0ffd87f88d57015ce516"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-08T12:58:42.272Z",
+        "endTime": "2025-07-08T13:01:42.079Z",
+        "date": "2025-07-08",
+        "_id": "686d160287f88d57015ce577"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-08T13:01:42.079Z",
+        "endTime": "2025-07-08T13:16:48.441Z",
+        "date": "2025-07-08",
+        "_id": "686d16b687f88d57015ce5c2"
+      }
+    ]
+  },
+  {
+    "user": "6847f1c9ba701433ed528be7",
+    "startTime": "2025-07-08T13:16:27.991Z",
+    "endTime": "2025-07-08T14:16:27.991Z",
+    "sessionWindow": [
+      {
+        "status": "online",
+        "startTime": "2025-07-08T13:16:48.441Z",
+        "endTime": "2025-07-08T13:34:45.187Z",
+        "date": "2025-07-08",
+        "_id": "686d1a4087f88d57015ce61a"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-08T13:34:45.187Z",
+        "endTime": "2025-07-08T14:08:43.365Z",
+        "date": "2025-07-08",
+        "_id": "686d1e7587f88d57015ce6bc"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-08T14:08:43.365Z",
+        "endTime": null,
+        "date": "2025-07-08",
+        "_id": "686d266b87f88d57015ce729"
+      }
+    ]
+  },
+  {
+    "user": "6847f1c9ba701433ed528be7",
+    "startTime": "2025-07-08T14:16:27.991Z",
+    "endTime": "2025-07-08T15:16:27.991Z",
+    "sessionWindow": [
+      {
+        "status": "online",
+        "startTime": "2025-07-08T14:24:44.302Z",
+        "endTime": "2025-07-08T14:41:58.035Z",
+        "date": "2025-07-08",
+        "_id": "686d2a2c87f88d57015ce7cc"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-08T14:41:58.035Z",
+        "endTime": "2025-07-08T14:44:46.400Z",
+        "date": "2025-07-08",
+        "_id": "686d2e3687f88d57015ce82a"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-08T14:44:46.400Z",
+        "endTime": "2025-07-08T14:46:33.529Z",
+        "date": "2025-07-08",
+        "_id": "686d2ede87f88d57015ce87b"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-08T14:46:33.529Z",
+        "endTime": "2025-07-08T15:21:09.121Z",
+        "date": "2025-07-08",
+        "_id": "686d2f4987f88d57015ce8cc"
+      }
+    ]
+  },
+  {
+    "user": "6847f1c9ba701433ed528be7",
+    "startTime": "2025-07-08T15:16:27.991Z",
+    "endTime": "2025-07-08T16:16:27.991Z",
+    "sessionWindow": [
+      {
+        "status": "online",
+        "startTime": "2025-07-08T15:21:09.121Z",
+        "endTime": null,
+        "date": "2025-07-08",
+        "_id": "686d376587f88d57015ce93e"
+      }
+    ]
+  },
+  {
+    "user": "6847f1c9ba701433ed528be7",
+    "startTime": "2025-07-08T16:16:27.991Z",
+    "endTime": "2025-07-08T17:16:27.991Z",
+    "sessionWindow": []
+  },
+  {
+    "user": "6847f1c9ba701433ed528be7",
+    "startTime": "2025-07-08T17:16:27.991Z",
+    "endTime": "2025-07-08T18:16:27.991Z",
+    "sessionWindow": []
+  },
+  {
+    "user": "6847f1c9ba701433ed528be7",
+    "startTime": "2025-07-08T18:16:27.991Z",
+    "endTime": "2025-07-08T19:16:27.991Z",
+    "sessionWindow": []
+  },
+  {
+    "user": "6847f1c9ba701433ed528be7",
+    "startTime": "2025-07-08T19:16:27.991Z",
+    "endTime": "2025-07-08T20:16:27.991Z",
+    "sessionWindow": []
+  },
+  {
+    "user": "6847f1c9ba701433ed528be7",
+    "startTime": "2025-07-08T20:16:27.991Z",
+    "endTime": "2025-07-08T21:16:27.991Z",
+    "sessionWindow": []
+  },
+  {
+    "user": "6847f1c9ba701433ed528be7",
+    "startTime": "2025-07-08T21:16:27.991Z",
+    "endTime": "2025-07-08T22:16:27.991Z",
+    "sessionWindow": []
+  },
+  {
+    "user": "6847f1c9ba701433ed528be7",
+    "startTime": "2025-07-08T22:16:27.991Z",
+    "endTime": "2025-07-08T23:16:27.991Z",
+    "sessionWindow": []
+  },
+  {
+    "user": "6847f1c9ba701433ed528be7",
+    "startTime": "2025-07-08T23:16:27.991Z",
+    "endTime": "2025-07-09T00:16:27.991Z",
+    "sessionWindow": []
+  },
+  {
+    "user": "6847f1c9ba701433ed528be7",
+    "startTime": "2025-07-09T00:16:27.991Z",
+    "endTime": "2025-07-09T01:16:27.991Z",
+    "sessionWindow": []
+  },
+  {
+    "user": "6847f1c9ba701433ed528be7",
+    "startTime": "2025-07-09T01:16:27.991Z",
+    "endTime": "2025-07-09T02:16:27.991Z",
+    "sessionWindow": []
+  },
+  {
+    "user": "6847f1c9ba701433ed528be7",
+    "startTime": "2025-07-09T02:16:27.991Z",
+    "endTime": "2025-07-09T03:16:27.991Z",
+    "sessionWindow": []
+  },
+  {
+    "user": "6847f1c9ba701433ed528be7",
+    "startTime": "2025-07-09T03:16:27.991Z",
+    "endTime": "2025-07-09T04:16:27.991Z",
+    "sessionWindow": []
+  },
+  {
+    "user": "6847f1c9ba701433ed528be7",
+    "startTime": "2025-07-09T04:16:27.991Z",
+    "endTime": "2025-07-09T05:16:27.991Z",
+    "sessionWindow": []
+  },
+  {
+    "user": "6847f1c9ba701433ed528be7",
+    "startTime": "2025-07-09T05:16:27.991Z",
+    "endTime": "2025-07-09T06:16:27.991Z",
+    "sessionWindow": [
+      {
+        "status": "online",
+        "startTime": "2025-07-09T05:22:30.464Z",
+        "endTime": "2025-07-09T05:38:20.564Z",
+        "date": "2025-07-09",
+        "_id": "686dfc9687f88d57015ceea6"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-09T05:38:20.564Z",
+        "endTime": "2025-07-09T06:21:46.068Z",
+        "date": "2025-07-09",
+        "_id": "686e004c87f88d57015cef08"
+      }
+    ]
+  },
+  {
+    "user": "6847f1c9ba701433ed528be7",
+    "startTime": "2025-07-09T06:16:27.991Z",
+    "endTime": "2025-07-09T07:16:27.991Z",
+    "sessionWindow": [
+      {
+        "status": "online",
+        "startTime": "2025-07-09T06:21:46.068Z",
+        "endTime": "2025-07-09T06:56:54.012Z",
+        "date": "2025-07-09",
+        "_id": "686e0a7a87f88d57015cef86"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-09T06:56:54.012Z",
+        "endTime": "2025-07-09T06:58:42.837Z",
+        "date": "2025-07-09",
+        "_id": "686e12b687f88d57015cf04d"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-09T06:58:42.837Z",
+        "endTime": "2025-07-09T06:59:03.212Z",
+        "date": "2025-07-09",
+        "_id": "686e132287f88d57015cf0a4"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-09T06:59:03.212Z",
+        "endTime": "2025-07-09T06:59:17.189Z",
+        "date": "2025-07-09",
+        "_id": "686e133787f88d57015cf0fa"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-09T06:59:17.189Z",
+        "endTime": "2025-07-09T07:02:14.428Z",
+        "date": "2025-07-09",
+        "_id": "686e134587f88d57015cf152"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-09T07:02:14.428Z",
+        "endTime": "2025-07-09T07:02:43.367Z",
+        "date": "2025-07-09",
+        "_id": "686e13f687f88d57015cf1ad"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-09T07:02:43.367Z",
+        "endTime": "2025-07-09T07:03:55.383Z",
+        "date": "2025-07-09",
+        "_id": "686e141387f88d57015cf206"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-09T07:03:55.383Z",
+        "endTime": "2025-07-09T07:14:04.561Z",
+        "date": "2025-07-09",
+        "_id": "686e145b87f88d57015cf261"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-09T07:14:04.561Z",
+        "endTime": null,
+        "date": "2025-07-09",
+        "_id": "686e16bc87f88d57015cf2c5"
+      }
+    ]
+  },
+  {
+    "user": "6847f1c9ba701433ed528be7",
+    "startTime": "2025-07-09T07:16:27.991Z",
+    "endTime": "2025-07-09T08:16:27.991Z",
+    "sessionWindow": [
+      {
+        "status": "online",
+        "startTime": "2025-07-09T07:34:32.993Z",
+        "endTime": "2025-07-09T08:10:13.442Z",
+        "date": "2025-07-09",
+        "_id": "686e1b8987f88d57015cf38e"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-09T08:10:13.442Z",
+        "endTime": "2025-07-09T08:21:43.022Z",
+        "date": "2025-07-09",
+        "_id": "686e23e587f88d57015cf40f"
+      }
+    ]
+  },
+  {
+    "user": "6847f1c9ba701433ed528be7",
+    "startTime": "2025-07-09T08:16:27.991Z",
+    "endTime": "2025-07-09T09:16:27.991Z",
+    "sessionWindow": [
+      {
+        "status": "online",
+        "startTime": "2025-07-09T08:21:43.022Z",
+        "endTime": "2025-07-09T08:26:08.766Z",
+        "date": "2025-07-09",
+        "_id": "686e269787f88d57015cf478"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-09T08:26:08.766Z",
+        "endTime": "2025-07-09T08:27:52.680Z",
+        "date": "2025-07-09",
+        "_id": "686e27a087f88d57015cf537"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-09T08:27:52.680Z",
+        "endTime": "2025-07-09T08:31:06.262Z",
+        "date": "2025-07-09",
+        "_id": "686e280887f88d57015cf599"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-09T08:31:06.262Z",
+        "endTime": "2025-07-09T08:36:31.762Z",
+        "date": "2025-07-09",
+        "_id": "686e28ca87f88d57015cf5fd"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-09T08:36:31.762Z",
+        "endTime": "2025-07-09T08:53:28.663Z",
+        "date": "2025-07-09",
+        "_id": "686e2a0f87f88d57015cf665"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-09T08:53:28.663Z",
+        "endTime": "2025-07-09T09:02:49.576Z",
+        "date": "2025-07-09",
+        "_id": "686e2e0887f88d57015cf6d9"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-09T09:02:49.576Z",
+        "endTime": "2025-07-09T09:16:13.328Z",
+        "date": "2025-07-09",
+        "_id": "686e303987f88d57015cf747"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-09T09:16:13.328Z",
+        "endTime": "2025-07-09T09:18:48.957Z",
+        "date": "2025-07-09",
+        "_id": "686e335d87f88d57015cf7ba"
+      }
+    ]
+  },
+  {
+    "user": "6847f1c9ba701433ed528be7",
+    "startTime": "2025-07-09T09:16:27.991Z",
+    "endTime": "2025-07-09T10:16:27.991Z",
+    "sessionWindow": [
+      {
+        "status": "online",
+        "startTime": "2025-07-09T09:18:48.957Z",
+        "endTime": "2025-07-09T10:05:58.613Z",
+        "date": "2025-07-09",
+        "_id": "686e33f987f88d57015cf822"
+      },
+      {
+        "status": "online",
+        "startTime": "2025-07-09T10:05:58.613Z",
+        "endTime": null,
+        "date": "2025-07-09",
+        "_id": "686e3f0687f88d57015cf91c"
+      }
+    ]
+  }
+]
