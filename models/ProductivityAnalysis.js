@@ -70,4 +70,6 @@ const ProductivityAnalysisSchema = new mongoose.Schema({
   timestamps: true // Adds createdAt / updatedAt
 });
 
+ProductivityAnalysisSchema.index({ user: 1, 'timeWindow.start': -1 });
+
 export default mongoose.model('ProductivityAnalysis', ProductivityAnalysisSchema);

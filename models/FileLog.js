@@ -15,4 +15,6 @@ const fileLogSchema = new mongoose.Schema({
   createdAt: { type: Date, default: Date.now }
 });
 
+fileLogSchema.index({ user: 1, timestamp: -1 });
+
 export default mongoose.model('FileLog', fileLogSchema);

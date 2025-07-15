@@ -9,6 +9,7 @@ import connectDb from "./config.js/db.js";
 import authRoutes from "./routes/authRoutes.js";
 import logRoutes from "./routes/logRoutes.js";
 import dashboardRoutes from "./routes/dashboardRoutes.js";
+import  signupRoutes from "./routes/signupRoutes.js";
 import { handleSocketConnection } from './ws/socketHandler.js';
 import { scheduleProductivityAnalysis } from './cron/scheduleProductivityAnalysis.js';
 import { runProductivityAnalysis } from './productivityAnalysis/runProductivityAnalysis.js';
@@ -46,6 +47,7 @@ app.use("/api/v1", authRoutes);
 app.use('/api/v1', logRoutes);
 app.use('/api/v1', dashboardRoutes);
 app.use('/api/v1', productivityRoutes);
+app.use ('/api/v1', signupRoutes)
 
 app.get("/", (req, res) => {
   res.send("API is running...");

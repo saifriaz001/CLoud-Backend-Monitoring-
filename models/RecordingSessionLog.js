@@ -8,4 +8,7 @@ const RecordingsessionLogSchema = new mongoose.Schema({
   videoURL: { type: String }
 });
 
+RecordingsessionLogSchema.index({ user: 1, startTime: -1 });
+
+
 export default mongoose.model('RecordingSessionLog', RecordingsessionLogSchema);

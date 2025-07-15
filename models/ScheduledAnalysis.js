@@ -16,4 +16,7 @@ const scheduledAnalysisSchema = new mongoose.Schema({
   }
 });
 
+scheduledAnalysisSchema.index({ user: 1, startTime: -1 });
+
+
 export default mongoose.model('ScheduledAnalysis', scheduledAnalysisSchema);

@@ -21,4 +21,7 @@ const ScreenshotLogSchema = new mongoose.Schema({
   }
 });
 
+ScreenshotLogSchema.index({ user: 1, timestamp: -1 });
+
+
 export default mongoose.model('ScreenshotLog', ScreenshotLogSchema);

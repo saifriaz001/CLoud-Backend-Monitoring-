@@ -26,5 +26,8 @@ const userStatusSchema = new mongoose.Schema({
   timestamps: true
 });
 
+userStatusSchema.index({ "sessions.status": 1 });
+userStatusSchema.index({ "sessions.startTime": 1 });
+
 const UserStatus = mongoose.model('UserStatus', userStatusSchema);
 export default UserStatus;
